@@ -25,13 +25,13 @@
 
 1ª Clone este repositório
 
-git clone https://github.com/jorgesousadev/player.git
+git clone https://github.com/devjorgesousa/player.git
 
-2ª Acesse a pasta do projeto no terminal/cmd ou no Visual Studio Code
+2ª Acesse a pasta do projeto no Visual Studio Code após descompactar o arquivo player-main.zip
 
-cd player
+cd player-main
 
-3ª Abra o arquivo index.html que está na pasta player
+3ª Abra o arquivo index.html que está na pasta player-main
 
 ![](/Screenshots/print3.png)
 
