@@ -1,4 +1,4 @@
-### Player de Música com HTML, CSS, JS
+### Player de Música
 
 * É um reprodutor de música que permite executar e pausar músicas.
 
